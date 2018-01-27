@@ -14,6 +14,15 @@ function myOtherFunction(num1, num2) {
     
 }
 
+var header = document.querySelector("h6");
+heaer. innerHTML = "Nooooooooooo"
+console.log(header)
+
+function changeHeader() {
+    heading = document.querySelector("");
+    heading.innerHIML = "my new awesome message"
+}
+
 
 
 
